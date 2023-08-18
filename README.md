@@ -16,7 +16,7 @@ This project encompasses several key steps, each contributing to a comprehensive
 
 ## Web Scraping with Listly
 
-Listly proved to be a valuable tool for web scraping, enabling the extraction of flight data attributes such as Flight_Name, Departure_Time, Total_Duration, Price, Layover, and Layover_City.
+I gathered flight data for economy class flights on September 29, 2023, between Chennai International airport and Indira Gandhi International Airport. Listly proved to be a valuable tool for web scraping.
 
 ## Data Cleaning and Preprocessing
 
@@ -53,7 +53,5 @@ This project showcases my proficiency in web scraping, data cleaning, and SQL an
 ## Repository Purpose
 
 I created this GitHub repository to share my Goibibo Flight Data Scraping and SQL Analysis project. The repository serves as an example of my data manipulation and analysis skills, providing potential employers and collaborators with a tangible demonstration of my capabilities.
-
-Feel free to explore the repository's contents, including the scraped data, cleaned dataset, SQL queries, and documentation.
 
 ---
