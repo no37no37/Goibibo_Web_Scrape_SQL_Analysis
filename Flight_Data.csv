@@ -1,0 +1,64 @@
+Flight Name,From,Departure Time,Total Duration Hours,Total Duration Minutes,To,Arrival Time,Price,Free Meal,Layover,Layover City,Layover Duration 
+SpiceJet,Chennai,19:55,3,15,New Delhi,23:10,5418,No,No,,
+Vistara,Chennai,11:25,2,55,New Delhi,14:20,5620,Yes,No,,
+Air India,Chennai,21:05,13,10,New Delhi,10:15,5625,No,Yes,Mumbai,8:30
+Air India,Chennai,20:15,14,0,New Delhi,10:15,5625,No,Yes,Mumbai,9:30
+SpiceJet,Chennai,21:00,26,45,New Delhi,23:45,6125,No,Yes,Mumbai,22:30
+Air India,Chennai,6:00,2,55,New Delhi,8:55,6455,No,No,,
+Air India,Chennai,10:05,3,5,New Delhi,13:10,6455,No,No,,
+Air India,Chennai,16:55,3,5,New Delhi,20:00,6455,No,No,,
+Air India,Chennai,20:30,2,55,New Delhi,23:25,6455,No,No,,
+IndiGo,Chennai,10:50,2,45,New Delhi,13:35,6464,No,No,,
+Vistara,Chennai,21:05,3,0,New Delhi,0:05,6507,Yes,No,,
+IndiGo,Chennai,18:50,5,15,New Delhi,0:05,6569,No,Yes,Bhubaneswar,1:20
+IndiGo,Chennai,18:45,5,45,New Delhi,0:30,6569,No,Yes,Coimbatore,1:40
+IndiGo,Chennai,17:55,6,10,New Delhi,0:05,6952,No,Yes,Ahmedabad,2:15
+Vistara,Chennai,17:25,2,45,New Delhi,20:10,7017,Yes,No,,
+Vistara,Chennai,6:55,2,55,New Delhi,9:50,7169,Yes,No,,
+IndiGo,Chennai,6:35,5,15,New Delhi,11:50,7285,No,Yes,Hyderabad,1:45
+IndiGo,Chennai,19:25,5,35,New Delhi,1:00,7285,No,Yes,Hyderabad,2:10
+IndiGo,Chennai,18:30,6,30,New Delhi,1:00,7285,No,Yes,Hyderabad,3:00
+SpiceJet,Chennai,21:00,14,20,New Delhi,11:20,7437,No,Yes,Mumbai,10:15
+IndiGo,Chennai,14:05,2,40,New Delhi,16:45,7499,No,No,,
+IndiGo,Chennai,16:55,2,50,New Delhi,19:45,7499,No,No,,
+IndiGo,Chennai,18:15,2,45,New Delhi,21:00,7499,No,No,,
+IndiGo,Chennai,20:20,2,50,New Delhi,23:10,7499,No,No,,
+Vistara,Chennai,6:55,5,45,New Delhi,12:40,7544,Yes,Yes,Mumbai,1:25
+IndiGo,Chennai,20:00,6,0,New Delhi,2:00,7631,No,Yes,Mumbai,1:40
+IndiGo,Chennai,11:25,6,30,New Delhi,17:55,7631,No,Yes,Mumbai,2:25
+IndiGo,Chennai,18:30,6,30,New Delhi,1:00,7631,No,Yes,Mumbai,2:25
+Vistara,Chennai,9:40,5,5,New Delhi,14:45,7649,Yes,Yes,Mumbai,1:05
+IndiGo,Chennai,16:00,2,45,New Delhi,18:45,7884,No,No,,
+IndiGo,Chennai,22:50,2,50,New Delhi,1:40,7884,No,No,,
+IndiGo,Chennai,4:50,5,55,New Delhi,10:45,7925,No,Yes,Hyderabad,2:20
+IndiGo,Chennai,9:35,5,20,New Delhi,14:55,8362,No,Yes,Mumbai,1:05
+IndiGo,Chennai,8:15,6,40,New Delhi,14:55,8362,No,Yes,Mumbai,2:40
+IndiGo,Chennai,17:20,6,10,New Delhi,23:30,8459,No,Yes,Mumbai,2:15
+IndiGo,Chennai,13:10,6,15,New Delhi,19:25,8459,No,Yes,Mumbai,2:05
+IndiGo,Chennai,2:55,6,15,New Delhi,9:10,8563,No,Yes,Mumbai,2:10
+AirAsia,Chennai,18:00,7,25,New Delhi,1:25,8567,No,Yes,Guwahati,2:05
+IndiGo,Chennai,8:40,2,50,New Delhi,11:30,8719,No,No,,
+Air India,Chennai,6:10,5,10,New Delhi,11:20,8777,No,Yes,Mumbai,0:40
+IndiGo,Chennai,17:50,5,50,New Delhi,23:40,8955,No,Yes,Nagpur,2:35
+SpiceJet,Chennai,8:55,23,30,New Delhi,8:25,8991,No,Yes,Hyderabad,20:05
+IndiGo,Chennai,9:30,5,30,New Delhi,15:00,9098,No,Yes,Bhubaneswar,1:10
+IndiGo,Chennai,17:55,5,30,New Delhi,23:25,9215,No,Yes,Goa,1:35
+Air India,Chennai,15:25,4,50,New Delhi,20:15,9313,No,Yes,Mumbai,0:45
+IndiGo,Chennai,5:50,2,50,New Delhi,8:40,9652,No,No,,
+IndiGo,Chennai,11:20,5,15,New Delhi,16:35,9791,No,Yes,Bengaluru,1:35
+IndiGo,Chennai,16:45,5,20,New Delhi,22:05,9791,No,Yes,Bengaluru,1:40
+IndiGo,Chennai,14:10,5,25,New Delhi,19:35,9791,No,Yes,Bengaluru,1:35
+IndiGo,Chennai,7:40,5,40,New Delhi,13:20,9791,No,Yes,Bengaluru,2:00
+IndiGo,Chennai,9:00,5,45,New Delhi,14:45,9791,No,Yes,Bengaluru,2:10
+IndiGo,Chennai,14:10,6,35,New Delhi,20:45,9791,No,Yes,Bengaluru,2:50
+IndiGo,Chennai,16:45,6,35,New Delhi,23:20,9791,No,Yes,Bengaluru,2:55
+IndiGo,Chennai,22:10,6,30,New Delhi,4:40,10024,No,Yes,Mumbai,2:25
+AirAsia,Chennai,22:10,10,40,New Delhi,8:50,10457,No,Yes,Bengaluru,5:15
+IndiGo,Chennai,11:05,6,30,New Delhi,17:35,10538,No,Yes,Kochi,2:10
+IndiGo,Chennai,12:05,6,5,New Delhi,18:10,10576,No,Yes,Lucknow,2:20
+IndiGo,Chennai,18:10,5,10,New Delhi,23:20,10631,No,Yes,Bengaluru,1:25
+IndiGo,Chennai,3:15,6,35,New Delhi,9:50,10759,No,Yes,Pune,2:40
+IndiGo,Chennai,22:05,5,15,New Delhi,3:20,10789,No,Yes,Bengaluru,1:25
+IndiGo,Chennai,18:10,6,35,New Delhi,0:45,10789,No,Yes,Bengaluru,2:50
+IndiGo,Chennai,19:25,4,40,New Delhi,0:05,11065,No,Yes,Hyderabad,1:20
+IndiGo,Chennai,17:00,5,30,New Delhi,22:30,11065,No,Yes,Hyderabad,1:55
