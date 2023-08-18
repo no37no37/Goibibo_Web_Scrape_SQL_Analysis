@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This documentation provides an in-depth overview of my project involving web scraping flight data from Goibibo.com and performing SQL analysis on the collected dataset. The project revolves around extracting relevant flight information, cleaning and preprocessing the data, and utilizing SQL queries to gain insights into flights between Chennai and New Delhi.
+This project involves web scraping flight data from Goibibo.com and performing SQL analysis on the collected dataset. The project revolves around extracting relevant flight information, cleaning and preprocessing the data, and utilizing SQL queries to gain insights into flights between Chennai and New Delhi.
 
 ## Project Overview
 
